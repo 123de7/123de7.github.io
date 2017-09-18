@@ -11,20 +11,20 @@ date: 2016-03-21
 
 |||||
 | ------: |:------|------: |  :------ |
-|姓名|徐景亮|性别|男|
-|生日 |1989-11-04|博客|daodaoliang.com|
-|院校 |山东政法学院|专业|信息管理与信息系统|
-|籍贯 |山东省临沂市|手机|18560231104|
-|邮箱 |`daodaoliang@yeah.net` | QQ|`88341189`|
-| GitHub |https://github.com/daodaoliang| | |
+|姓名|周琪琪|性别|男|
+|生日 |1994-02-27|博客|https://123de7.github.io|
+|院校 |常熟理工学院|专业|自动化|
+|籍贯 |河南焦作|手机|00000000000|
+|邮箱 |`a123de7@163.com` | QQ|`1185753569`|
+| GitHub |https://123de7.github.io/| | |
 
 ### <i class="fa fa-eye"></i> 自我评价
 
 **五年的工作经验，五年半开发经验.热爱Linux、热爱C++、热爱Qt、热爱python.喜欢研究计算机世界的运行原理。参与翻译出版《PyQt高级编程》一书，拥有《无线局域网的入侵检测系统》的共同专利权，维护NBase系列的开源软件；**
 
-**个人博客: [http://daodaoliang.com][3]**
+**个人博客: [https://123de7.github.io/][3]**
 
-**GitHub: [https://github.com/daodaoliang][4]**
+**GitHub: [https://123de7.github.io/][4]**
 
 ### <i class="fa fa-binoculars"></i> 求职目标
 
