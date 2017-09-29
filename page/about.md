@@ -1,6 +1,6 @@
 ---
 layout: life
-title: 关于刀刀亮
+title: 关于周七
 duoshuo: true
 date: 2014-10-18
 ---
@@ -11,7 +11,7 @@ date: 2014-10-18
 
 * 你或许可以联系到我:
 
-> <i class="fa  fa-user"></i> 邮箱: [daodaoliang@yeah.net](mailto:daodaoliang@yeah.net)
+> <i class="fa  fa-user"></i> 邮箱: [a123de7@163.net]
 
 ******
 
@@ -25,7 +25,7 @@ date: 2014-10-18
 
 * 第四次，它犯了错，却借由别人也会犯错来宽慰自己；
 
-* 第五次，它[自由][1]软弱，却把它认为是生命的[坚韧][2]； 
+* 第五次，它[自由]软弱，却把它认为是生命的[坚韧]； 
 
 * 第六次，当它鄙夷一张丑恶的嘴脸时，却不知那正是自己面具中的一副； 
 
@@ -36,7 +36,5 @@ date: 2014-10-18
 ![daodaoliang](/res/img/blog/daodaoliang.jpg)
 
 
-[1]:/page/daodaoliang.html
-[2]:/res/download/daodaoliang.pdf
 
 
